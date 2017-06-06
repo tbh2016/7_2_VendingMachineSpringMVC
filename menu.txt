@@ -2,7 +2,7 @@
 2::M&Ms::1.5::2
 3::Pringles::2.1::1
 4::Reese's::1.85::3
-5::Pretzels::1.25::5
+5::Pretzels::1.25::3
 6::Twinkies::1.95::0
 7::Doritoes::1.75::10
 8::Almond Joy::1.85::0
